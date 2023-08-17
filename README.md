@@ -1,4 +1,4 @@
 # infant-microbiome-brain-behavior
-Microbiome Brain and Still Face Paradigm
+Microbiome Brain and Still Face Paradigm: 
 
-BrainMicrobiomeRF: Random Forest Models with brain structures. 
+BrainMicrobiomeRF.R: Random Forest Models with brain structures. 
